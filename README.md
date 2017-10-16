@@ -1,4 +1,4 @@
-# Payroll
+# Payroll work event Generation
 
 ## JSON configuration that includes employee name, forecasted holidays, work event generation period.
 
