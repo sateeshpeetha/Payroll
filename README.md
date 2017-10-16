@@ -73,11 +73,8 @@ Employee2
   <tr class='holiday'><td>Sunday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">January 01</span>
-   <span class="mobile_ad">Jan 1</span>
+   <span class="mobile_ad">Jan-1</span>
   </td>
- 
-  
   <td>
   New Years Day </td>
   <td class="remarks">
@@ -85,8 +82,7 @@ Employee2
     <tr class='holiday'><td>Friday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">February 24</span>
-   <span class="mobile_ad">Feb 24</span>
+   <span class="mobile_ad">Feb-24</span>
   </td>
  
   
@@ -97,8 +93,7 @@ Independence Day  </td>
     <tr class='holiday'><td>Friday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">April 14</span>
-   <span class="mobile_ad">Apr 14</span>
+   <span class="mobile_ad">Apr-14</span>
   </td>
  
   
@@ -109,8 +104,7 @@ Good Friday  </td>
     <tr class='holiday'><td>Monday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">May 01</span>
-   <span class="mobile_ad">May 1</span>
+   <span class="mobile_ad">May-01</span>
   </td>
  
   
@@ -121,8 +115,7 @@ Good Friday  </td>
     <tr class='publicholiday'><td>Sunday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">May 14</span>
-   <span class="mobile_ad">May 14</span>
+   <span class="mobile_ad">May-14</span>
   </td>
  
   
@@ -133,8 +126,7 @@ Mother's Day </td>
     <tr class='holiday'><td>Friday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">June 23</span>
-   <span class="mobile_ad">Jun 23</span>
+   <span class="mobile_ad">Jun-23</span>
   </td>
  
   
@@ -145,8 +137,7 @@ Mother's Day </td>
     <tr class='holiday'><td>Saturday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">June 24</span>
-   <span class="mobile_ad">Jun 24</span>
+   <span class="mobile_ad">Jun-24</span>
   </td>
  
   
@@ -157,8 +148,7 @@ Mother's Day </td>
     <tr class='holiday'><td>Sunday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">August 20</span>
-   <span class="mobile_ad">Aug 20</span>
+   <span class="mobile_ad">Aug-20</span>
   </td>
  
   
@@ -169,8 +159,7 @@ Mother's Day </td>
     <tr class='holiday'><td>Saturday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">October 21</span>
-   <span class="mobile_ad">Oct 21</span>
+   <span class="mobile_ad">Oct-21</span>
   </td>
  
   
@@ -181,8 +170,7 @@ Ethnicity day </td>
     <tr class='publicholiday'><td>Sunday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">November 12</span>
-   <span class="mobile_ad">Nov 12</span>
+   <span class="mobile_ad">Nov-12</span>
   </td>
  
   
@@ -193,8 +181,7 @@ Ethnicity day </td>
     <tr class='holiday'><td>Sunday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">December 24</span>
-   <span class="mobile_ad">Dec 24</span>
+   <span class="mobile_ad">Dec-24</span>
   </td>
  
   
@@ -205,8 +192,7 @@ Ethnicity day </td>
     <tr class='holiday'><td>Monday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">December 25</span>
-   <span class="mobile_ad">Dec 25</span>
+   <span class="mobile_ad">Dec-25</span>
   </td>
  
   
@@ -217,8 +203,7 @@ Ethnicity day </td>
     <tr class='holiday'><td>Tuesday</td>
 
 <td style="white-space: nowrap">
-  <span class="ad_head_728">December 26</span>
-   <span class="mobile_ad">Dec 26</span>
+   <span class="mobile_ad">Dec-26</span>
   </td>
  
   
