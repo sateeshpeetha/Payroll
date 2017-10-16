@@ -4,6 +4,17 @@
 
 ### Sample below. 
 <table>
+<tr>
+<th>
+</th>
+<th>
+</th>
+<th>
+Period
+</th>
+
+</tr>
+<tr>
 <th>
 Name
 </th>
@@ -11,20 +22,12 @@ Name
 Forecasted Holidays
 </th>
 <th>
-<table>
-<tr>
-Period
-</tr>
-<tr>
-<th>
 Start
 </th>
 <th>
 End
 </th>
 </tr>
-</table>
-</th>
 <tr>
 <td>
 Employee1
